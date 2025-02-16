@@ -90,6 +90,4 @@ This project is licensed under the **MIT License**.
 ## 🤝 Contributing
 Feel free to **fork** the repository, raise issues, or submit pull requests!
 
-## 📞 Contact
-For queries or collaborations, reach out at **your.email@example.com**.
 
